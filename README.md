@@ -111,6 +111,7 @@ Now Netlify will build and deploy your site whenever you push to git.
 
 You can also click this button:
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/03a3b4e73d3145c48cf2b78e187d78de)](https://app.codacy.com/app/GSITE/victor-hugo_2?utm_source=github.com&utm_medium=referral&utm_content=Gamingpc/victor-hugo&utm_campaign=Badge_Grade_Dashboard)
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/victor-hugo)
 
 ## Enjoy!! 😸
